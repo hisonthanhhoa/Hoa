@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Biến đi liền :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao lại gặp Hoa',
     btnReply: 'Gửi cho Sơn <3',
-    reply: 'Tại ông trời <33333333',
+    reply: 'Tại vì Sơn vui tính mà',
     mess: 'Sơn biết mà 🥰. hihi😘😘',
     messDesc: 'Hẹn gặp ở Hà Nội nhé .',
     btnAccept: 'Okiiiii lun <3',
